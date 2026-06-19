@@ -26,9 +26,9 @@ input{
   display: block;
   padding: 10px 5px;
   width: 91%;
-  box-shadow: 0 0 10px dodgerblue;
+  /* box-shadow: 0 0 10px dodgerblue; */
   background-color: transparent;
-  border: 0;
+  border: 1 solid black;
   outline: 0;
   margin-bottom: 10px;
   margin-top: 7px;
@@ -39,7 +39,7 @@ input{
   color: #eee;
 }
 label{
-  color: #eee;
+  color: #002;
   margin-left: 15px;
   margin-bottom: 3px;
 }
@@ -54,7 +54,7 @@ button{
   display: block;
   padding: 10px 5px;
   width: 91%;
-  box-shadow: 0 0 10px dodgerblue;
+  /* box-shadow: 0 0 10px dodgerblue; */
   background-color: black;
   border: 0;
   outline: 0;
