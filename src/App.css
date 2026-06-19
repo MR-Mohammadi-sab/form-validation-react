@@ -9,11 +9,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background:linear-gradient(to right,red,blue);
+  background:#fafafa;
 }
 .formContainer{
   width: 280px;
-  box-shadow:0 0 20px blue;
+  box-shadow:0 0 20px #000020;
   border-radius: 15px;
 
  
